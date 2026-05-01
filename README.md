@@ -41,6 +41,7 @@ python3 -c "import torch; print(torch.__version__)"
 
 Download the dataset from the challenge link provided by the organizers.
 After downloading, place/extract the dataset inside a `data` folder at the repository root (same directory level as `main.py`).
+For more details, look inside the README in the dataset folder.
 
 Expected layout:
 
